@@ -1,3 +1,5 @@
+
+
 /*Cada linguagem de programação tem sua própria forma de lidar com erros.
 
 O JavaScript começa dividindo cada tipo de erro possível em algumas categorias:
@@ -14,3 +16,4 @@ operadores ou sinais gráficos com elementos a menos, como esquecer de fechar ch
 
 TypeError: Indica que o código esperava receber um dado de um determinado tipo, tal qual uma string de texto,
 mas recebeu outro, como um número, booleano ou null.
+
