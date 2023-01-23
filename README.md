@@ -1,4 +1,4 @@
-# **Imersao JavaScript BackEnd** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+# **Imersao JavaScript Back-End** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
 
 Estudos JavaScript para Back-End.
 
